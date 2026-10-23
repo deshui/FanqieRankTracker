@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-22",
-  "prev_date": "2026-10-21",
+  "date": "2026-10-23",
+  "prev_date": "2026-10-22",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -8,15 +8,30 @@
       "summary": "近 7 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 7 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 18000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 3,
+          "read_growth_total": 18000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -27,11 +42,6 @@
         },
         {
           "name": "反派",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
@@ -58,15 +68,30 @@
       "summary": "近 14 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 14 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 18000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 3,
+          "read_growth_total": 18000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -77,11 +102,6 @@
         },
         {
           "name": "反派",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
@@ -108,15 +128,30 @@
       "summary": "近 30 日暂无足够数据判断全站热点。",
       "fallback_summary": "近 30 日暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 18000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 3,
+          "read_growth_total": 18000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -127,11 +162,6 @@
         },
         {
           "name": "反派",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
@@ -158,15 +188,30 @@
       "summary": "全部样本暂无足够数据判断全站热点。",
       "fallback_summary": "全部样本暂无足够数据判断全站热点。",
       "hot_genres": [],
-      "hot_types": [],
+      "hot_types": [
+        {
+          "name": "",
+          "score": 18000,
+          "new_count": 21,
+          "dropped_count": 1,
+          "read_count": 3,
+          "read_growth_total": 18000.0,
+          "active_days": 2
+        }
+      ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "重生",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "种田",
           "count": 2,
           "category_count": 1
         },
@@ -177,11 +222,6 @@
         },
         {
           "name": "反派",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
