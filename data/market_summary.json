@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-24",
-  "prev_date": "2026-10-23",
+  "date": "2026-10-25",
+  "prev_date": "2026-10-24",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,12 +11,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 42000,
-          "new_count": 22,
-          "dropped_count": 2,
-          "read_count": 6,
-          "read_growth_total": 42000.0,
-          "active_days": 3
+          "score": 68000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 9,
+          "read_growth_total": 68000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -76,12 +76,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 42000,
-          "new_count": 22,
-          "dropped_count": 2,
-          "read_count": 6,
-          "read_growth_total": 42000.0,
-          "active_days": 3
+          "score": 68000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 9,
+          "read_growth_total": 68000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -141,12 +141,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 42000,
-          "new_count": 22,
-          "dropped_count": 2,
-          "read_count": 6,
-          "read_growth_total": 42000.0,
-          "active_days": 3
+          "score": 68000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 9,
+          "read_growth_total": 68000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
@@ -206,12 +206,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 42000,
-          "new_count": 22,
-          "dropped_count": 2,
-          "read_count": 6,
-          "read_growth_total": 42000.0,
-          "active_days": 3
+          "score": 68000,
+          "new_count": 23,
+          "dropped_count": 3,
+          "read_count": 9,
+          "read_growth_total": 68000.0,
+          "active_days": 4
         }
       ],
       "hot_themes": [
