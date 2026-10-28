@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-27",
-  "prev_date": "2026-10-26",
+  "date": "2026-10-28",
+  "prev_date": "2026-10-27",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,12 +11,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 138000,
-          "new_count": 26,
-          "dropped_count": 6,
-          "read_count": 15,
-          "read_growth_total": 138000.0,
-          "active_days": 6
+          "score": 161000,
+          "new_count": 29,
+          "dropped_count": 9,
+          "read_count": 18,
+          "read_growth_total": 161000.0,
+          "active_days": 7
         }
       ],
       "hot_themes": [
@@ -31,8 +31,18 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "种田",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -42,11 +52,6 @@
         },
         {
           "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 1,
           "category_count": 1
         },
@@ -81,12 +86,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 138000,
-          "new_count": 26,
-          "dropped_count": 6,
-          "read_count": 15,
-          "read_growth_total": 138000.0,
-          "active_days": 6
+          "score": 161000,
+          "new_count": 29,
+          "dropped_count": 9,
+          "read_count": 18,
+          "read_growth_total": 161000.0,
+          "active_days": 7
         }
       ],
       "hot_themes": [
@@ -101,8 +106,18 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "种田",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -112,11 +127,6 @@
         },
         {
           "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 1,
           "category_count": 1
         },
@@ -151,12 +161,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 138000,
-          "new_count": 26,
-          "dropped_count": 6,
-          "read_count": 15,
-          "read_growth_total": 138000.0,
-          "active_days": 6
+          "score": 161000,
+          "new_count": 29,
+          "dropped_count": 9,
+          "read_count": 18,
+          "read_growth_total": 161000.0,
+          "active_days": 7
         }
       ],
       "hot_themes": [
@@ -171,8 +181,18 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "种田",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -182,11 +202,6 @@
         },
         {
           "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 1,
           "category_count": 1
         },
@@ -221,12 +236,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 138000,
-          "new_count": 26,
-          "dropped_count": 6,
-          "read_count": 15,
-          "read_growth_total": 138000.0,
-          "active_days": 6
+          "score": 161000,
+          "new_count": 29,
+          "dropped_count": 9,
+          "read_count": 18,
+          "read_growth_total": 161000.0,
+          "active_days": 7
         }
       ],
       "hot_themes": [
@@ -241,8 +256,18 @@
           "category_count": 1
         },
         {
+          "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
           "name": "种田",
           "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -252,11 +277,6 @@
         },
         {
           "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 1,
           "category_count": 1
         },
