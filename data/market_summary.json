@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-30",
-  "prev_date": "2026-10-28",
+  "date": "2026-10-31",
+  "prev_date": "2026-10-30",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 201000,
-          "new_count": 14,
-          "dropped_count": 14,
+          "score": 199000,
+          "new_count": 15,
+          "dropped_count": 15,
           "read_count": 21,
-          "read_growth_total": 201000.0,
+          "read_growth_total": 199000.0,
           "active_days": 7
         }
       ],
@@ -51,12 +51,17 @@
           "category_count": 1
         },
         {
-          "name": "种田",
+          "name": "无CP",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "异能",
           "count": 1,
           "category_count": 1
         },
@@ -81,12 +86,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 201000,
-          "new_count": 34,
-          "dropped_count": 14,
-          "read_count": 21,
-          "read_growth_total": 201000.0,
-          "active_days": 8
+          "score": 217000,
+          "new_count": 36,
+          "dropped_count": 16,
+          "read_count": 24,
+          "read_growth_total": 217000.0,
+          "active_days": 9
         }
       ],
       "hot_themes": [
@@ -97,12 +102,17 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -117,11 +127,6 @@
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -146,7 +151,7 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "异能",
           "count": 1,
           "category_count": 1
         },
@@ -171,12 +176,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 201000,
-          "new_count": 34,
-          "dropped_count": 14,
-          "read_count": 21,
-          "read_growth_total": 201000.0,
-          "active_days": 8
+          "score": 217000,
+          "new_count": 36,
+          "dropped_count": 16,
+          "read_count": 24,
+          "read_growth_total": 217000.0,
+          "active_days": 9
         }
       ],
       "hot_themes": [
@@ -187,12 +192,17 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -207,11 +217,6 @@
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -236,7 +241,7 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "异能",
           "count": 1,
           "category_count": 1
         },
@@ -261,12 +266,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 201000,
-          "new_count": 34,
-          "dropped_count": 14,
-          "read_count": 21,
-          "read_growth_total": 201000.0,
-          "active_days": 8
+          "score": 217000,
+          "new_count": 36,
+          "dropped_count": 16,
+          "read_count": 24,
+          "read_growth_total": 217000.0,
+          "active_days": 9
         }
       ],
       "hot_themes": [
@@ -277,12 +282,17 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -297,11 +307,6 @@
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -326,7 +331,7 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "异能",
           "count": 1,
           "category_count": 1
         },
