@@ -1,6 +1,6 @@
 {
-  "date": "2026-10-31",
-  "prev_date": "2026-10-30",
+  "date": "2026-11-01",
+  "prev_date": "2026-10-31",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,22 +11,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 199000,
+          "score": 193000,
           "new_count": 15,
           "dropped_count": 15,
           "read_count": 21,
-          "read_growth_total": 199000.0,
+          "read_growth_total": 193000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 8,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
           "count": 2,
           "category_count": 1
         },
@@ -56,22 +61,12 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "异能",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "直播",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "综艺",
           "count": 1,
           "category_count": 1
         }
@@ -86,18 +81,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 217000,
-          "new_count": 36,
-          "dropped_count": 16,
-          "read_count": 24,
-          "read_growth_total": 217000.0,
-          "active_days": 9
+          "score": 235000,
+          "new_count": 37,
+          "dropped_count": 17,
+          "read_count": 27,
+          "read_growth_total": 235000.0,
+          "active_days": 10
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -107,11 +107,6 @@
         },
         {
           "name": "反派",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
           "count": 2,
           "category_count": 1
         },
@@ -151,17 +146,17 @@
           "category_count": 1
         },
         {
-          "name": "异能",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "修仙",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "直播",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "综艺",
           "count": 1,
           "category_count": 1
         }
@@ -176,18 +171,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 217000,
-          "new_count": 36,
-          "dropped_count": 16,
-          "read_count": 24,
-          "read_growth_total": 217000.0,
-          "active_days": 9
+          "score": 235000,
+          "new_count": 37,
+          "dropped_count": 17,
+          "read_count": 27,
+          "read_growth_total": 235000.0,
+          "active_days": 10
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -197,11 +197,6 @@
         },
         {
           "name": "反派",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
           "count": 2,
           "category_count": 1
         },
@@ -241,17 +236,17 @@
           "category_count": 1
         },
         {
-          "name": "异能",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "修仙",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "直播",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "综艺",
           "count": 1,
           "category_count": 1
         }
@@ -266,18 +261,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 217000,
-          "new_count": 36,
-          "dropped_count": 16,
-          "read_count": 24,
-          "read_growth_total": 217000.0,
-          "active_days": 9
+          "score": 235000,
+          "new_count": 37,
+          "dropped_count": 17,
+          "read_count": 27,
+          "read_growth_total": 235000.0,
+          "active_days": 10
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
+          "category_count": 1
+        },
+        {
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -287,11 +287,6 @@
         },
         {
           "name": "反派",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "天灾",
           "count": 2,
           "category_count": 1
         },
@@ -331,17 +326,17 @@
           "category_count": 1
         },
         {
-          "name": "异能",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "修仙",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "直播",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "综艺",
           "count": 1,
           "category_count": 1
         }
