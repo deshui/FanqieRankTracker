@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-01",
-  "prev_date": "2026-10-31",
+  "date": "2026-11-02",
+  "prev_date": "2026-11-01",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 193000,
-          "new_count": 15,
-          "dropped_count": 15,
+          "score": 208000,
+          "new_count": 16,
+          "dropped_count": 16,
           "read_count": 21,
-          "read_growth_total": 193000.0,
+          "read_growth_total": 208000.0,
           "active_days": 7
         }
       ],
@@ -27,17 +27,17 @@
         },
         {
           "name": "反派",
+          "count": 3,
+          "category_count": 1
+        },
+        {
+          "name": "重生",
           "count": 2,
           "category_count": 1
         },
         {
           "name": "天灾",
           "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -69,6 +69,11 @@
           "name": "综艺",
           "count": 1,
           "category_count": 1
+        },
+        {
+          "name": "校园",
+          "count": 1,
+          "category_count": 1
         }
       ]
     },
@@ -81,12 +86,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 235000,
-          "new_count": 37,
-          "dropped_count": 17,
-          "read_count": 27,
-          "read_growth_total": 235000.0,
-          "active_days": 10
+          "score": 276000,
+          "new_count": 39,
+          "dropped_count": 19,
+          "read_count": 30,
+          "read_growth_total": 276000.0,
+          "active_days": 11
         }
       ],
       "hot_themes": [
@@ -96,18 +101,18 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "重生",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 2,
+          "name": "反派",
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 2,
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -171,12 +176,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 235000,
-          "new_count": 37,
-          "dropped_count": 17,
-          "read_count": 27,
-          "read_growth_total": 235000.0,
-          "active_days": 10
+          "score": 276000,
+          "new_count": 39,
+          "dropped_count": 19,
+          "read_count": 30,
+          "read_growth_total": 276000.0,
+          "active_days": 11
         }
       ],
       "hot_themes": [
@@ -186,18 +191,18 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "重生",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 2,
+          "name": "反派",
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 2,
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -261,12 +266,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 235000,
-          "new_count": 37,
-          "dropped_count": 17,
-          "read_count": 27,
-          "read_growth_total": 235000.0,
-          "active_days": 10
+          "score": 276000,
+          "new_count": 39,
+          "dropped_count": 19,
+          "read_count": 30,
+          "read_growth_total": 276000.0,
+          "active_days": 11
         }
       ],
       "hot_themes": [
@@ -276,18 +281,18 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
+          "name": "重生",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "重生",
-          "count": 2,
+          "name": "反派",
+          "count": 3,
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 2,
+          "name": "天灾",
+          "count": 3,
           "category_count": 1
         },
         {
