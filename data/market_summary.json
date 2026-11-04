@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-02",
-  "prev_date": "2026-11-01",
+  "date": "2026-11-04",
+  "prev_date": "2026-11-02",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,33 +11,33 @@
       "hot_types": [
         {
           "name": "",
-          "score": 208000,
-          "new_count": 16,
-          "dropped_count": 16,
+          "score": 222000,
+          "new_count": 18,
+          "dropped_count": 18,
           "read_count": 21,
-          "read_growth_total": 208000.0,
+          "read_growth_total": 222000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 7,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 2,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -86,33 +86,33 @@
       "hot_types": [
         {
           "name": "",
-          "score": 276000,
-          "new_count": 39,
-          "dropped_count": 19,
-          "read_count": 30,
-          "read_growth_total": 276000.0,
-          "active_days": 11
+          "score": 325000,
+          "new_count": 42,
+          "dropped_count": 22,
+          "read_count": 33,
+          "read_growth_total": 325000.0,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -127,11 +127,6 @@
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
@@ -162,6 +157,11 @@
         },
         {
           "name": "综艺",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "校园",
           "count": 1,
           "category_count": 1
         }
@@ -176,33 +176,33 @@
       "hot_types": [
         {
           "name": "",
-          "score": 276000,
-          "new_count": 39,
-          "dropped_count": 19,
-          "read_count": 30,
-          "read_growth_total": 276000.0,
-          "active_days": 11
+          "score": 325000,
+          "new_count": 42,
+          "dropped_count": 22,
+          "read_count": 33,
+          "read_growth_total": 325000.0,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -217,11 +217,6 @@
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
@@ -252,6 +247,11 @@
         },
         {
           "name": "综艺",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "校园",
           "count": 1,
           "category_count": 1
         }
@@ -266,33 +266,33 @@
       "hot_types": [
         {
           "name": "",
-          "score": 276000,
-          "new_count": 39,
-          "dropped_count": 19,
-          "read_count": 30,
-          "read_growth_total": 276000.0,
-          "active_days": 11
+          "score": 325000,
+          "new_count": 42,
+          "dropped_count": 22,
+          "read_count": 33,
+          "read_growth_total": 325000.0,
+          "active_days": 12
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -307,11 +307,6 @@
         },
         {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "种田",
           "count": 1,
           "category_count": 1
         },
@@ -342,6 +337,11 @@
         },
         {
           "name": "综艺",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "校园",
           "count": 1,
           "category_count": 1
         }
