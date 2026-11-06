@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-05",
-  "prev_date": "2026-11-04",
+  "date": "2026-11-06",
+  "prev_date": "2026-11-05",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 209000,
-          "new_count": 18,
-          "dropped_count": 18,
+          "score": 204000,
+          "new_count": 17,
+          "dropped_count": 17,
           "read_count": 21,
-          "read_growth_total": 209000.0,
+          "read_growth_total": 204000.0,
           "active_days": 7
         }
       ],
@@ -26,18 +26,13 @@
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 4,
-          "category_count": 1
-        },
-        {
           "name": "重生",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 2,
+          "name": "反派",
+          "count": 3,
           "category_count": 1
         },
         {
@@ -46,7 +41,7 @@
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "团宠",
           "count": 1,
           "category_count": 1
         },
@@ -81,12 +76,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 347000,
-          "new_count": 44,
-          "dropped_count": 24,
-          "read_count": 36,
-          "read_growth_total": 347000.0,
-          "active_days": 13
+          "score": 365000,
+          "new_count": 46,
+          "dropped_count": 26,
+          "read_count": 39,
+          "read_growth_total": 365000.0,
+          "active_days": 14
         }
       ],
       "hot_themes": [
@@ -111,17 +106,17 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "穿书",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
           "count": 1,
           "category_count": 1
         },
@@ -161,12 +156,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 347000,
-          "new_count": 44,
-          "dropped_count": 24,
-          "read_count": 36,
-          "read_growth_total": 347000.0,
-          "active_days": 13
+          "score": 365000,
+          "new_count": 46,
+          "dropped_count": 26,
+          "read_count": 39,
+          "read_growth_total": 365000.0,
+          "active_days": 14
         }
       ],
       "hot_themes": [
@@ -191,17 +186,17 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "穿书",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
           "count": 1,
           "category_count": 1
         },
@@ -241,12 +236,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 347000,
-          "new_count": 44,
-          "dropped_count": 24,
-          "read_count": 36,
-          "read_growth_total": 347000.0,
-          "active_days": 13
+          "score": 365000,
+          "new_count": 46,
+          "dropped_count": 26,
+          "read_count": 39,
+          "read_growth_total": 365000.0,
+          "active_days": 14
         }
       ],
       "hot_themes": [
@@ -271,17 +266,17 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "穿书",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "空间",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
           "count": 1,
           "category_count": 1
         },
