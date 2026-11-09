@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-08",
-  "prev_date": "2026-11-07",
+  "date": "2026-11-09",
+  "prev_date": "2026-11-08",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,28 +11,38 @@
       "hot_types": [
         {
           "name": "",
-          "score": 173000,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 170000,
+          "new_count": 13,
+          "dropped_count": 13,
           "read_count": 21,
-          "read_growth_total": 173000.0,
+          "read_growth_total": 170000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
+        {
+          "name": "系统",
+          "count": 4,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 3,
+          "category_count": 1
+        },
         {
           "name": "重生",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "系统",
-          "count": 2,
+          "name": "追妻",
+          "count": 1,
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 2,
+          "name": "双洁",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -51,23 +61,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 372000,
-          "new_count": 27,
-          "dropped_count": 27,
+          "score": 363000,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
-          "read_growth_total": 372000.0,
+          "read_growth_total": 363000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 4,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -91,17 +101,22 @@
           "category_count": 1
         },
         {
+          "name": "追妻",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "无CP",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "修仙",
           "count": 1,
           "category_count": 1
         },
@@ -131,18 +146,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 390000,
-          "new_count": 48,
-          "dropped_count": 28,
-          "read_count": 45,
-          "read_growth_total": 390000.0,
-          "active_days": 16
+          "score": 405000,
+          "new_count": 50,
+          "dropped_count": 30,
+          "read_count": 48,
+          "read_growth_total": 405000.0,
+          "active_days": 17
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 13,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -151,8 +171,13 @@
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 4,
+          "name": "追妻",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
@@ -211,18 +236,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 390000,
-          "new_count": 48,
-          "dropped_count": 28,
-          "read_count": 45,
-          "read_growth_total": 390000.0,
-          "active_days": 16
+          "score": 405000,
+          "new_count": 50,
+          "dropped_count": 30,
+          "read_count": 48,
+          "read_growth_total": 405000.0,
+          "active_days": 17
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 13,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 5,
           "category_count": 1
         },
         {
@@ -231,8 +261,13 @@
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 4,
+          "name": "追妻",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "双洁",
+          "count": 2,
           "category_count": 1
         },
         {
