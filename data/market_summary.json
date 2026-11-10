@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-09",
-  "prev_date": "2026-11-08",
+  "date": "2026-11-10",
+  "prev_date": "2026-11-09",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,42 +11,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 170000,
-          "new_count": 13,
-          "dropped_count": 13,
+          "score": 139000,
+          "new_count": 15,
+          "dropped_count": 15,
           "read_count": 21,
-          "read_growth_total": 170000.0,
+          "read_growth_total": 139000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 3,
           "category_count": 1
         },
         {
-          "name": "重生",
+          "name": "反派",
           "count": 2,
           "category_count": 1
         },
         {
-          "name": "追妻",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "校园",
+          "name": "重生",
           "count": 1,
           "category_count": 1
         }
@@ -61,18 +46,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 363000,
-          "new_count": 28,
-          "dropped_count": 28,
+          "score": 347000,
+          "new_count": 31,
+          "dropped_count": 31,
           "read_count": 42,
-          "read_growth_total": 363000.0,
+          "read_growth_total": 347000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -91,22 +76,7 @@
           "category_count": 1
         },
         {
-          "name": "空间",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "团宠",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "追妻",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
           "count": 1,
           "category_count": 1
         },
@@ -117,16 +87,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "直播",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "综艺",
           "count": 1,
           "category_count": 1
         },
@@ -146,18 +106,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 405000,
-          "new_count": 50,
-          "dropped_count": 30,
-          "read_count": 48,
-          "read_growth_total": 405000.0,
-          "active_days": 17
+          "score": 415000,
+          "new_count": 54,
+          "dropped_count": 34,
+          "read_count": 51,
+          "read_growth_total": 415000.0,
+          "active_days": 18
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -171,22 +131,7 @@
           "category_count": 1
         },
         {
-          "name": "追妻",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "穿书",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
           "count": 1,
           "category_count": 1
         },
@@ -207,16 +152,6 @@
         },
         {
           "name": "修仙",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "直播",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "综艺",
           "count": 1,
           "category_count": 1
         },
@@ -236,18 +171,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 405000,
-          "new_count": 50,
-          "dropped_count": 30,
-          "read_count": 48,
-          "read_growth_total": 405000.0,
-          "active_days": 17
+          "score": 415000,
+          "new_count": 54,
+          "dropped_count": 34,
+          "read_count": 51,
+          "read_growth_total": 415000.0,
+          "active_days": 18
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 13,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -261,22 +196,7 @@
           "category_count": 1
         },
         {
-          "name": "追妻",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "双洁",
-          "count": 2,
-          "category_count": 1
-        },
-        {
           "name": "穿书",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "空间",
           "count": 1,
           "category_count": 1
         },
@@ -297,16 +217,6 @@
         },
         {
           "name": "修仙",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "直播",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "综艺",
           "count": 1,
           "category_count": 1
         },
