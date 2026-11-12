@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-11",
-  "prev_date": "2026-11-10",
+  "date": "2026-11-12",
+  "prev_date": "2026-11-11",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 102000,
+          "score": 95000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 102000.0,
+          "read_growth_total": 95000.0,
           "active_days": 7
         }
       ],
@@ -41,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 324000,
+          "score": 304000,
           "new_count": 30,
           "dropped_count": 30,
           "read_count": 42,
-          "read_growth_total": 324000.0,
+          "read_growth_total": 304000.0,
           "active_days": 14
         }
       ],
@@ -101,18 +101,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 427000,
-          "new_count": 54,
-          "dropped_count": 34,
-          "read_count": 54,
-          "read_growth_total": 427000.0,
-          "active_days": 19
+          "score": 442000,
+          "new_count": 56,
+          "dropped_count": 36,
+          "read_count": 57,
+          "read_growth_total": 442000.0,
+          "active_days": 20
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -122,7 +122,7 @@
         },
         {
           "name": "重生",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -166,18 +166,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 427000,
-          "new_count": 54,
-          "dropped_count": 34,
-          "read_count": 54,
-          "read_growth_total": 427000.0,
-          "active_days": 19
+          "score": 442000,
+          "new_count": 56,
+          "dropped_count": 36,
+          "read_count": 57,
+          "read_growth_total": 442000.0,
+          "active_days": 20
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 9,
+          "count": 8,
           "category_count": 1
         },
         {
@@ -187,7 +187,7 @@
         },
         {
           "name": "重生",
-          "count": 4,
+          "count": 3,
           "category_count": 1
         },
         {
