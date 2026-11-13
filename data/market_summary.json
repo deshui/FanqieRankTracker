@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-12",
-  "prev_date": "2026-11-11",
+  "date": "2026-11-13",
+  "prev_date": "2026-11-12",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 95000,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 92000,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
-          "read_growth_total": 95000.0,
+          "read_growth_total": 92000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 2,
+          "count": 1,
           "category_count": 1
         },
         {
@@ -41,11 +41,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 304000,
-          "new_count": 30,
-          "dropped_count": 30,
+          "score": 296000,
+          "new_count": 28,
+          "dropped_count": 28,
           "read_count": 42,
-          "read_growth_total": 304000.0,
+          "read_growth_total": 296000.0,
           "active_days": 14
         }
       ],
@@ -57,17 +57,12 @@
         },
         {
           "name": "反派",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
           "name": "重生",
           "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -101,12 +96,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 442000,
-          "new_count": 56,
-          "dropped_count": 36,
-          "read_count": 57,
-          "read_growth_total": 442000.0,
-          "active_days": 20
+          "score": 457000,
+          "new_count": 57,
+          "dropped_count": 37,
+          "read_count": 60,
+          "read_growth_total": 457000.0,
+          "active_days": 21
         }
       ],
       "hot_themes": [
@@ -166,12 +161,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 442000,
-          "new_count": 56,
-          "dropped_count": 36,
-          "read_count": 57,
-          "read_growth_total": 442000.0,
-          "active_days": 20
+          "score": 457000,
+          "new_count": 57,
+          "dropped_count": 37,
+          "read_count": 60,
+          "read_growth_total": 457000.0,
+          "active_days": 21
         }
       ],
       "hot_themes": [
