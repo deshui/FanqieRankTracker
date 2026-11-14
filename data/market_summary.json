@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-13",
-  "prev_date": "2026-11-12",
+  "date": "2026-11-14",
+  "prev_date": "2026-11-13",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,22 +11,32 @@
       "hot_types": [
         {
           "name": "",
-          "score": 92000,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 93000,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 92000.0,
+          "read_growth_total": 93000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 1,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "反派",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
           "count": 1,
           "category_count": 1
         }
@@ -41,18 +51,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 296000,
-          "new_count": 28,
-          "dropped_count": 28,
+          "score": 272000,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
-          "read_growth_total": 296000.0,
+          "read_growth_total": 272000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -62,16 +72,16 @@
         },
         {
           "name": "重生",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
-          "name": "团宠",
+          "name": "幼崽",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "无CP",
+          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -96,23 +106,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 457000,
-          "new_count": 57,
-          "dropped_count": 37,
-          "read_count": 60,
-          "read_growth_total": 457000.0,
-          "active_days": 21
+          "score": 473000,
+          "new_count": 59,
+          "dropped_count": 39,
+          "read_count": 63,
+          "read_growth_total": 473000.0,
+          "active_days": 22
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 8,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -127,6 +137,16 @@
         },
         {
           "name": "团宠",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -161,23 +181,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 457000,
-          "new_count": 57,
-          "dropped_count": 37,
-          "read_count": 60,
-          "read_growth_total": 457000.0,
-          "active_days": 21
+          "score": 473000,
+          "new_count": 59,
+          "dropped_count": 39,
+          "read_count": 63,
+          "read_growth_total": 473000.0,
+          "active_days": 22
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 8,
+          "count": 10,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -192,6 +212,16 @@
         },
         {
           "name": "团宠",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
