@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-14",
-  "prev_date": "2026-11-13",
+  "date": "2026-11-15",
+  "prev_date": "2026-11-14",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 93000,
+          "score": 99000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 93000.0,
+          "read_growth_total": 99000.0,
           "active_days": 7
         }
       ],
@@ -52,8 +52,8 @@
         {
           "name": "",
           "score": 272000,
-          "new_count": 25,
-          "dropped_count": 25,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
           "read_growth_total": 272000.0,
           "active_days": 14
@@ -86,11 +86,6 @@
           "category_count": 1
         },
         {
-          "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "校园",
           "count": 1,
           "category_count": 1
@@ -106,12 +101,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 473000,
-          "new_count": 59,
-          "dropped_count": 39,
-          "read_count": 63,
-          "read_growth_total": 473000.0,
-          "active_days": 22
+          "score": 489000,
+          "new_count": 60,
+          "dropped_count": 40,
+          "read_count": 66,
+          "read_growth_total": 489000.0,
+          "active_days": 23
         }
       ],
       "hot_themes": [
@@ -181,12 +176,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 473000,
-          "new_count": 59,
-          "dropped_count": 39,
-          "read_count": 63,
-          "read_growth_total": 473000.0,
-          "active_days": 22
+          "score": 489000,
+          "new_count": 60,
+          "dropped_count": 40,
+          "read_count": 66,
+          "read_growth_total": 489000.0,
+          "active_days": 23
         }
       ],
       "hot_themes": [
