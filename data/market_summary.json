@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-15",
-  "prev_date": "2026-11-14",
+  "date": "2026-11-16",
+  "prev_date": "2026-11-15",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,23 +11,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 99000,
+          "score": 102000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 99000.0,
+          "read_growth_total": 102000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 3,
+          "count": 4,
           "category_count": 1
         },
         {
-          "name": "反派",
-          "count": 2,
+          "name": "团宠",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -37,6 +37,21 @@
         },
         {
           "name": "炮灰",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -52,8 +67,8 @@
         {
           "name": "",
           "score": 272000,
-          "new_count": 24,
-          "dropped_count": 24,
+          "new_count": 25,
+          "dropped_count": 25,
           "read_count": 42,
           "read_growth_total": 272000.0,
           "active_days": 14
@@ -62,7 +77,7 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 7,
           "category_count": 1
         },
         {
@@ -72,7 +87,12 @@
         },
         {
           "name": "重生",
-          "count": 2,
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "团宠",
+          "count": 1,
           "category_count": 1
         },
         {
@@ -86,7 +106,17 @@
           "category_count": 1
         },
         {
+          "name": "美食",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "校园",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -101,18 +131,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 489000,
-          "new_count": 60,
-          "dropped_count": 40,
-          "read_count": 66,
-          "read_growth_total": 489000.0,
-          "active_days": 23
+          "score": 507000,
+          "new_count": 62,
+          "dropped_count": 42,
+          "read_count": 69,
+          "read_growth_total": 507000.0,
+          "active_days": 24
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -122,16 +152,16 @@
         },
         {
           "name": "重生",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "团宠",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 1,
           "category_count": 1
         },
@@ -142,6 +172,11 @@
         },
         {
           "name": "炮灰",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -162,6 +197,11 @@
         },
         {
           "name": "校园",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -176,18 +216,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 489000,
-          "new_count": 60,
-          "dropped_count": 40,
-          "read_count": 66,
-          "read_growth_total": 489000.0,
-          "active_days": 23
+          "score": 507000,
+          "new_count": 62,
+          "dropped_count": 42,
+          "read_count": 69,
+          "read_growth_total": 507000.0,
+          "active_days": 24
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 12,
           "category_count": 1
         },
         {
@@ -197,16 +237,16 @@
         },
         {
           "name": "重生",
-          "count": 3,
-          "category_count": 1
-        },
-        {
-          "name": "穿书",
-          "count": 1,
+          "count": 2,
           "category_count": 1
         },
         {
           "name": "团宠",
+          "count": 2,
+          "category_count": 1
+        },
+        {
+          "name": "穿书",
           "count": 1,
           "category_count": 1
         },
@@ -217,6 +257,11 @@
         },
         {
           "name": "炮灰",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "美食",
           "count": 1,
           "category_count": 1
         },
@@ -237,6 +282,11 @@
         },
         {
           "name": "校园",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "远古",
           "count": 1,
           "category_count": 1
         }
