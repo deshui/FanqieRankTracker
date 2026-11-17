@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-16",
-  "prev_date": "2026-11-15",
+  "date": "2026-11-17",
+  "prev_date": "2026-11-16",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,23 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 102000,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 109000,
+          "new_count": 9,
+          "dropped_count": 9,
           "read_count": 21,
-          "read_growth_total": 102000.0,
+          "read_growth_total": 109000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -52,6 +47,11 @@
         },
         {
           "name": "远古",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -66,33 +66,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 272000,
-          "new_count": 25,
-          "dropped_count": 25,
+          "score": 248000,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
-          "read_growth_total": 272000.0,
+          "read_growth_total": 248000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 7,
+          "count": 8,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "重生",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "团宠",
-          "count": 1,
+          "count": 3,
           "category_count": 1
         },
         {
@@ -111,12 +101,12 @@
           "category_count": 1
         },
         {
-          "name": "校园",
+          "name": "远古",
           "count": 1,
           "category_count": 1
         },
         {
-          "name": "远古",
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -131,12 +121,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 507000,
-          "new_count": 62,
-          "dropped_count": 42,
-          "read_count": 69,
-          "read_growth_total": 507000.0,
-          "active_days": 24
+          "score": 524000,
+          "new_count": 63,
+          "dropped_count": 43,
+          "read_count": 72,
+          "read_growth_total": 524000.0,
+          "active_days": 25
         }
       ],
       "hot_themes": [
@@ -156,12 +146,12 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 2,
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "团宠",
           "count": 1,
           "category_count": 1
         },
@@ -202,6 +192,11 @@
         },
         {
           "name": "远古",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -216,12 +211,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 507000,
-          "new_count": 62,
-          "dropped_count": 42,
-          "read_count": 69,
-          "read_growth_total": 507000.0,
-          "active_days": 24
+          "score": 524000,
+          "new_count": 63,
+          "dropped_count": 43,
+          "read_count": 72,
+          "read_growth_total": 524000.0,
+          "active_days": 25
         }
       ],
       "hot_themes": [
@@ -241,12 +236,12 @@
           "category_count": 1
         },
         {
-          "name": "团宠",
-          "count": 2,
+          "name": "穿书",
+          "count": 1,
           "category_count": 1
         },
         {
-          "name": "穿书",
+          "name": "团宠",
           "count": 1,
           "category_count": 1
         },
@@ -287,6 +282,11 @@
         },
         {
           "name": "远古",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "基建",
           "count": 1,
           "category_count": 1
         }
