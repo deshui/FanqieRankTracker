@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-17",
-  "prev_date": "2026-11-16",
+  "date": "2026-11-18",
+  "prev_date": "2026-11-17",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 109000,
-          "new_count": 9,
-          "dropped_count": 9,
+          "score": 104000,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
-          "read_growth_total": 109000.0,
+          "read_growth_total": 104000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 4,
           "category_count": 1
         },
         {
@@ -41,17 +41,17 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "美食",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "远古",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -66,23 +66,23 @@
       "hot_types": [
         {
           "name": "",
-          "score": 248000,
-          "new_count": 24,
-          "dropped_count": 24,
+          "score": 206000,
+          "new_count": 23,
+          "dropped_count": 23,
           "read_count": 42,
-          "read_growth_total": 248000.0,
+          "read_growth_total": 206000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 8,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "反派",
-          "count": 3,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -96,17 +96,17 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "美食",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "远古",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -121,18 +121,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 524000,
-          "new_count": 63,
-          "dropped_count": 43,
-          "read_count": 72,
-          "read_growth_total": 524000.0,
-          "active_days": 25
+          "score": 531000,
+          "new_count": 65,
+          "dropped_count": 45,
+          "read_count": 75,
+          "read_growth_total": 531000.0,
+          "active_days": 26
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 12,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -166,6 +166,11 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "美食",
           "count": 1,
           "category_count": 1
@@ -181,22 +186,12 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "校园",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "远古",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "基建",
           "count": 1,
           "category_count": 1
         }
@@ -211,18 +206,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 524000,
-          "new_count": 63,
-          "dropped_count": 43,
-          "read_count": 72,
-          "read_growth_total": 524000.0,
-          "active_days": 25
+          "score": 531000,
+          "new_count": 65,
+          "dropped_count": 45,
+          "read_count": 75,
+          "read_growth_total": 531000.0,
+          "active_days": 26
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 12,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -256,6 +251,11 @@
           "category_count": 1
         },
         {
+          "name": "种田",
+          "count": 1,
+          "category_count": 1
+        },
+        {
           "name": "美食",
           "count": 1,
           "category_count": 1
@@ -271,22 +271,12 @@
           "category_count": 1
         },
         {
-          "name": "修仙",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "校园",
           "count": 1,
           "category_count": 1
         },
         {
           "name": "远古",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "基建",
           "count": 1,
           "category_count": 1
         }
