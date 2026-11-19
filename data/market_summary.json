@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-18",
-  "prev_date": "2026-11-17",
+  "date": "2026-11-19",
+  "prev_date": "2026-11-18",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 104000,
-          "new_count": 11,
-          "dropped_count": 11,
+          "score": 106000,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 104000.0,
+          "read_growth_total": 106000.0,
           "active_days": 7
         }
       ],
@@ -27,11 +27,6 @@
         },
         {
           "name": "幼崽",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -66,11 +61,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 206000,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 201000,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
-          "read_growth_total": 206000.0,
+          "read_growth_total": 201000.0,
           "active_days": 14
         }
       ],
@@ -87,11 +82,6 @@
         },
         {
           "name": "幼崽",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "炮灰",
           "count": 1,
           "category_count": 1
         },
@@ -121,12 +111,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 531000,
-          "new_count": 65,
-          "dropped_count": 45,
-          "read_count": 75,
-          "read_growth_total": 531000.0,
-          "active_days": 26
+          "score": 548000,
+          "new_count": 68,
+          "dropped_count": 48,
+          "read_count": 78,
+          "read_growth_total": 548000.0,
+          "active_days": 27
         }
       ],
       "hot_themes": [
@@ -161,11 +151,6 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 1,
           "category_count": 1
@@ -182,11 +167,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "校园",
           "count": 1,
           "category_count": 1
         },
@@ -206,12 +186,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 531000,
-          "new_count": 65,
-          "dropped_count": 45,
-          "read_count": 75,
-          "read_growth_total": 531000.0,
-          "active_days": 26
+          "score": 548000,
+          "new_count": 68,
+          "dropped_count": 48,
+          "read_count": 78,
+          "read_growth_total": 548000.0,
+          "active_days": 27
         }
       ],
       "hot_themes": [
@@ -246,11 +226,6 @@
           "category_count": 1
         },
         {
-          "name": "炮灰",
-          "count": 1,
-          "category_count": 1
-        },
-        {
           "name": "种田",
           "count": 1,
           "category_count": 1
@@ -267,11 +242,6 @@
         },
         {
           "name": "天灾",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "校园",
           "count": 1,
           "category_count": 1
         },
