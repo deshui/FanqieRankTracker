@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-19",
-  "prev_date": "2026-11-18",
+  "date": "2026-11-20",
+  "prev_date": "2026-11-19",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 106000,
+          "score": 111000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 106000.0,
+          "read_growth_total": 111000.0,
           "active_days": 7
         }
       ],
@@ -61,18 +61,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 201000,
-          "new_count": 24,
-          "dropped_count": 24,
+          "score": 203000,
+          "new_count": 23,
+          "dropped_count": 23,
           "read_count": 42,
-          "read_growth_total": 201000.0,
+          "read_growth_total": 203000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -111,12 +111,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 548000,
-          "new_count": 68,
-          "dropped_count": 48,
-          "read_count": 78,
-          "read_growth_total": 548000.0,
-          "active_days": 27
+          "score": 568000,
+          "new_count": 69,
+          "dropped_count": 49,
+          "read_count": 81,
+          "read_growth_total": 568000.0,
+          "active_days": 28
         }
       ],
       "hot_themes": [
@@ -186,12 +186,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 548000,
-          "new_count": 68,
-          "dropped_count": 48,
-          "read_count": 78,
-          "read_growth_total": 548000.0,
-          "active_days": 27
+          "score": 568000,
+          "new_count": 69,
+          "dropped_count": 49,
+          "read_count": 81,
+          "read_growth_total": 568000.0,
+          "active_days": 28
         }
       ],
       "hot_themes": [
