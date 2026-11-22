@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-20",
-  "prev_date": "2026-11-19",
+  "date": "2026-11-22",
+  "prev_date": "2026-11-20",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 111000,
+          "score": 128000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 111000.0,
+          "read_growth_total": 128000.0,
           "active_days": 7
         }
       ],
@@ -23,11 +23,6 @@
         {
           "name": "系统",
           "count": 4,
-          "category_count": 1
-        },
-        {
-          "name": "幼崽",
-          "count": 1,
           "category_count": 1
         },
         {
@@ -61,18 +56,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 203000,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 221000,
+          "new_count": 24,
+          "dropped_count": 24,
           "read_count": 42,
-          "read_growth_total": 203000.0,
+          "read_growth_total": 221000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
@@ -111,18 +106,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 568000,
-          "new_count": 69,
-          "dropped_count": 49,
-          "read_count": 81,
-          "read_growth_total": 568000.0,
-          "active_days": 28
+          "score": 601000,
+          "new_count": 71,
+          "dropped_count": 51,
+          "read_count": 84,
+          "read_growth_total": 601000.0,
+          "active_days": 29
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
@@ -186,18 +181,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 568000,
-          "new_count": 69,
-          "dropped_count": 49,
-          "read_count": 81,
-          "read_growth_total": 568000.0,
-          "active_days": 28
+          "score": 601000,
+          "new_count": 71,
+          "dropped_count": 51,
+          "read_count": 84,
+          "read_growth_total": 601000.0,
+          "active_days": 29
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 11,
           "category_count": 1
         },
         {
