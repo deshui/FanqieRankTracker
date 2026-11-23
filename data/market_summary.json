@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-22",
-  "prev_date": "2026-11-20",
+  "date": "2026-11-23",
+  "prev_date": "2026-11-22",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,11 +11,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 128000,
+          "score": 139000,
           "new_count": 12,
           "dropped_count": 12,
           "read_count": 21,
-          "read_growth_total": 128000.0,
+          "read_growth_total": 139000.0,
           "active_days": 7
         }
       ],
@@ -56,11 +56,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 221000,
+          "score": 238000,
           "new_count": 24,
           "dropped_count": 24,
           "read_count": 42,
-          "read_growth_total": 221000.0,
+          "read_growth_total": 238000.0,
           "active_days": 14
         }
       ],
@@ -106,18 +106,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 601000,
-          "new_count": 71,
-          "dropped_count": 51,
-          "read_count": 84,
-          "read_growth_total": 601000.0,
-          "active_days": 29
+          "score": 628000,
+          "new_count": 72,
+          "dropped_count": 52,
+          "read_count": 87,
+          "read_growth_total": 628000.0,
+          "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -152,11 +152,6 @@
         },
         {
           "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "无CP",
           "count": 1,
           "category_count": 1
         },
@@ -181,18 +176,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 601000,
-          "new_count": 71,
-          "dropped_count": 51,
-          "read_count": 84,
-          "read_growth_total": 601000.0,
-          "active_days": 29
+          "score": 628000,
+          "new_count": 72,
+          "dropped_count": 52,
+          "read_count": 87,
+          "read_growth_total": 628000.0,
+          "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 11,
+          "count": 10,
           "category_count": 1
         },
         {
@@ -227,11 +222,6 @@
         },
         {
           "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "无CP",
           "count": 1,
           "category_count": 1
         },
