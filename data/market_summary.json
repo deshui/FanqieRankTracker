@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "prev_date": "2026-11-22",
+  "date": "2026-11-24",
+  "prev_date": "2026-11-23",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -11,18 +11,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 139000,
-          "new_count": 12,
-          "dropped_count": 12,
+          "score": 147000,
+          "new_count": 11,
+          "dropped_count": 11,
           "read_count": 21,
-          "read_growth_total": 139000.0,
+          "read_growth_total": 147000.0,
           "active_days": 7
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 4,
+          "count": 2,
           "category_count": 1
         },
         {
@@ -32,16 +32,6 @@
         },
         {
           "name": "种田",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "美食",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "远古",
           "count": 1,
           "category_count": 1
         }
@@ -56,27 +46,27 @@
       "hot_types": [
         {
           "name": "",
-          "score": 238000,
-          "new_count": 24,
-          "dropped_count": 24,
+          "score": 249000,
+          "new_count": 23,
+          "dropped_count": 23,
           "read_count": 42,
-          "read_growth_total": 238000.0,
+          "read_growth_total": 249000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 6,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 2,
+          "count": 5,
           "category_count": 1
         },
         {
           "name": "幼崽",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "反派",
           "count": 1,
           "category_count": 1
         },
@@ -106,18 +96,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 628000,
-          "new_count": 72,
-          "dropped_count": 52,
-          "read_count": 87,
-          "read_growth_total": 628000.0,
+          "score": 654000,
+          "new_count": 53,
+          "dropped_count": 53,
+          "read_count": 90,
+          "read_growth_total": 654000.0,
           "active_days": 30
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
@@ -176,18 +166,18 @@
       "hot_types": [
         {
           "name": "",
-          "score": 628000,
-          "new_count": 72,
-          "dropped_count": 52,
-          "read_count": 87,
-          "read_growth_total": 628000.0,
-          "active_days": 30
+          "score": 654000,
+          "new_count": 73,
+          "dropped_count": 53,
+          "read_count": 90,
+          "read_growth_total": 654000.0,
+          "active_days": 31
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 10,
+          "count": 9,
           "category_count": 1
         },
         {
