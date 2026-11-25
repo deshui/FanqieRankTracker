@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-24",
-  "prev_date": "2026-11-23",
+  "date": "2026-11-25",
+  "prev_date": "2026-11-24",
   "periods": {
     "7": {
       "period": "近 7 日",
@@ -12,8 +12,8 @@
         {
           "name": "",
           "score": 147000,
-          "new_count": 11,
-          "dropped_count": 11,
+          "new_count": 12,
+          "dropped_count": 12,
           "read_count": 21,
           "read_growth_total": 147000.0,
           "active_days": 7
@@ -22,16 +22,16 @@
       "hot_themes": [
         {
           "name": "系统",
-          "count": 2,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
-          "count": 1,
+          "count": 3,
           "category_count": 1
         },
         {
           "name": "种田",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         }
@@ -46,27 +46,22 @@
       "hot_types": [
         {
           "name": "",
-          "score": 249000,
-          "new_count": 23,
-          "dropped_count": 23,
+          "score": 256000,
+          "new_count": 21,
+          "dropped_count": 21,
           "read_count": 42,
-          "read_growth_total": 249000.0,
+          "read_growth_total": 256000.0,
           "active_days": 14
         }
       ],
       "hot_themes": [
         {
           "name": "系统",
-          "count": 5,
+          "count": 6,
           "category_count": 1
         },
         {
           "name": "幼崽",
-          "count": 1,
-          "category_count": 1
-        },
-        {
-          "name": "反派",
           "count": 1,
           "category_count": 1
         },
@@ -77,6 +72,11 @@
         },
         {
           "name": "美食",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         },
@@ -96,11 +96,11 @@
       "hot_types": [
         {
           "name": "",
-          "score": 654000,
-          "new_count": 53,
-          "dropped_count": 53,
+          "score": 653000,
+          "new_count": 54,
+          "dropped_count": 54,
           "read_count": 90,
-          "read_growth_total": 654000.0,
+          "read_growth_total": 653000.0,
           "active_days": 30
         }
       ],
@@ -112,7 +112,7 @@
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -147,6 +147,11 @@
         },
         {
           "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         },
@@ -166,12 +171,12 @@
       "hot_types": [
         {
           "name": "",
-          "score": 654000,
-          "new_count": 73,
-          "dropped_count": 53,
-          "read_count": 90,
-          "read_growth_total": 654000.0,
-          "active_days": 31
+          "score": 671000,
+          "new_count": 75,
+          "dropped_count": 55,
+          "read_count": 93,
+          "read_growth_total": 671000.0,
+          "active_days": 32
         }
       ],
       "hot_themes": [
@@ -182,7 +187,7 @@
         },
         {
           "name": "反派",
-          "count": 6,
+          "count": 5,
           "category_count": 1
         },
         {
@@ -217,6 +222,11 @@
         },
         {
           "name": "天灾",
+          "count": 1,
+          "category_count": 1
+        },
+        {
+          "name": "修仙",
           "count": 1,
           "category_count": 1
         },
